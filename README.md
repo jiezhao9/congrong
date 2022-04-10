@@ -3,6 +3,7 @@
 # 从容锦囊 
 收录各类抗议过程中的攻略，让更多人更从容!  
 
+https://www.yuque.com/jiezhao/congrong/yv8aoq   
 
 
 ## 项目说明
@@ -11,6 +12,7 @@
 
 -  直接参与本Github项目，提交更多内容
 - [在腾讯文档中提交内容](https://docs.qq.com/form/page/DV0NBbXlkaE1zQ2Fs)  
+- [参与编辑语雀知识库] (https://www.yuque.com/g/jiezhao/congrong/collaborator/join?token=5q3XDxYFDDuACCy6#)
 
 
 
